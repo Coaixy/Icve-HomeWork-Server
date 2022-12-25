@@ -2,7 +2,7 @@
 // @name        职教云复习助手
 // @namespace    http://playdreamer.cn/
 // @include      https://*.zjy2.icve.com.cn/*
-// @version      1.0.0
+// @version      1.0.1
 // @description  仅供复习，请勿用于非法用途
 // @author       Coaixy
 // @grant        none
